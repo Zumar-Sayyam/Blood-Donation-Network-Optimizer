@@ -1,0 +1,24 @@
+```gitignore id="0q9mbo"
+# Python cache files
+__pycache__/
+*.pyc
+
+# Streamlit secrets
+.streamlit/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+logs.txt
+
+# Data files
+donors.txt
+hospitals.txt
+
+# macOS files
+.DS_Store
+```
